@@ -1,97 +1,75 @@
 # Dushyant Rahangdale
 
-👨‍💻 DevOps Engineer | Bengaluru, India  
-📧 Email: dushyantrahangdale5@gmail.com | 📞 Phone: +91-7720833966  
-🔗 **[LinkedIn](http://www.linkedin.com/in/dushyant-rahangdale-9b2826205/)** | 🌐 Location: Bengaluru, 560102, India
+**Site Reliability Engineer**  
+📧 Email: [dushyantrahangdale5@gmail.com](mailto:dushyantrahangdale5@gmail.com)  
+📞 Phone: +91-7720833966  
+🌍 Location: Bengaluru, India  
+🔗 **[LinkedIn](http://www.linkedin.com/in/dushyant-rahangdale-9b2826205/)**  
 
 ---
 
 ## 🚀 Profile
 
-Dynamic and results-oriented DevOps Engineer with a fervent commitment to advancing knowledge and driving innovation. Proficient in designing and implementing robust, scalable DevOps pipelines, automating processes, and optimizing cloud infrastructure. Dedicated to achieving outstanding results and promoting a collaborative team environment.
+Experienced and goal-oriented Site Reliability Engineer (SRE) with a proven record in enhancing system uptime, reliability, and performance through automation, monitoring, and infrastructure optimization. Skilled in Kubernetes, Terraform, CI/CD pipelines, and high-availability monitoring frameworks. Committed to maintaining service health and achieving SLA/SLO targets while promoting operational resilience and consistency.
 
 ---
 
 ## 👨‍💼 Employment History
 
-### Cloud Engineer - DevOps at 42Gears Mobility System Pvt.Ltd
+### **Site Reliability Engineer (SRE)**  
+**G2** | Bengaluru, India  
+**April 2024 – Present**
 
-- **Duration:** 03/2023 - Present
-- **Location:** Bengaluru
+- **High Availability & Uptime Optimization:** Implemented and monitored High Availability Monitoring (HAM) frameworks to maximize uptime and meet SLO targets.
+- **Infrastructure as Code (IaC):** Developed and managed scalable, repeatable infrastructure using Terraform and Kustomize, enhancing operational resilience.
+- **Kubernetes & GitOps:** Managed Amazon EKS clusters and implemented Argo CD for GitOps workflows, ensuring automated, version-controlled deployments.
+- **Monitoring & Observability:** Utilized New Relic, Prometheus, Grafana, and Alertmanager for proactive monitoring, real-time alerting, and incident response.
+- **Incident & Escalation Management:** Configured PagerDuty escalations to streamline response workflows, reducing Mean Time to Recovery (MTTR).
+- **SLA & SLO Management:** Defined, tracked, and optimized SLAs and SLOs to align system reliability and performance with organizational objectives.
 
-  - **Containerized Deployment:**
-    - Implemented Kubernetes (K8s) and Docker for a streamlined and efficient application deployment approach.
+### **Cloud Engineer - DevOps**  
+**42Gears Mobility Systems** | Bengaluru, India  
+**March 2023 – April 2024**
 
-  - **CI/CD Excellence:**
-    - Designed and executed comprehensive CI/CD pipelines using GitLab, automating build, test, and deployment processes for swift and reliable software delivery.
-
-  - **Infrastructure as Code (IaC):**
-    - Utilized Terraform for establishing and maintaining Infrastructure as Code (IaC), ensuring consistent and reproducible provisioning and management of cloud resources.
-
-  - **Kubernetes and Container Management:**
-    - Successfully managed Kubernetes clusters (EKS, GKE) and container repositories (ECR, GCR) for optimal application deployment.
-
-  - **Deployment Automation:**
-    - Spearheaded the automation of a monolithic application deployment on a Windows VM hosted on AWS, enhancing operational efficiency.
-
-  - **Testing Automation:**
-    - Implemented a robust pipeline for automated integration and regression testing in Development and Staging environments, ensuring continuous delivery of high-quality applications.
-
-### Systems Engineer at ATOS GITSS
-
-- **Duration:** 10/2021 - 02/2023
-- **Location:** Pune
-
-  - **AWS Services Administration:**
-    - Orchestrated and administered critical AWS services: EC2, S3, ELB, ASG, EBS, IAM, Route 53, and CloudWatch, ensuring seamless operation of cloud infrastructure.
-
-  - **Security and IAM:**
-    - Established and maintained IAM protocols, reinforcing robust security practices within the AWS environment.
-
-  - **Load Balancers and Auto-Scaling:**
-    - Designed and implemented load balancers and auto-scaling mechanisms, contributing to the creation of reliable and fault-tolerant systems for optimal performance.
-
-  - **Windows Server Management:**
-    - Managed Windows Server patching and incident monitoring using ServiceNow, contributing to a secure and well-maintained server environment.
+- **Containerized Deployment:** Implemented Kubernetes (EKS, GKE) and Docker for streamlined and efficient application deployment.
+- **CI/CD Excellence:** Designed and executed CI/CD pipelines using GitLab for seamless and reliable software delivery.
+- **Infrastructure as Code (IaC):** Used Terraform to automate the provisioning and management of cloud infrastructure, ensuring consistent deployments.
+- **Kubernetes & Container Management:** Managed Kubernetes clusters and container repositories to optimize application deployment.
 
 ---
 
 ## 🎓 Education
 
-**Bachelors of Engineering in Electronics and Telecommunication**  
+**Bachelor of Engineering in Electronics and Telecommunication**  
 St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur  
-**Duration:** 07/2017 - 08/2021
+**Duration:** 07/2017 – 08/2021
 
 ---
 
 ## 🛠️ Skills
 
-- **Cloud Platforms:** AWS, Azure, GCP
-- **Infrastructure as Code (IaC):** Terraform
-- **Service Mesh:** Istio
-- **Container Orchestration:** Kubernetes (K8s), Docker
-- **CI/CD:** GitLab CI, Jenkins
-- **Package Manager:** Helm
-- **Version Control:** Git, GitLab, GitHub
-- **Configuration Management:** Ansible
-- **Command Line:** Linux, PowerShell
-- **Monitoring and Alerting:** Grafana, Prometheus
-- **Operating System:** Linux, Windows
-- **Scripting:** Shell, PowerShell, Python
+- **Cloud Platforms:** AWS, Cloudflare  
+- **Infrastructure as Code (IaC):** Terraform, Crossplane  
+- **CI/CD Tools:** GitLab, Argo CD, GitHub, Atlantis, Kubecheck, Argo Workflows  
+- **Data Management Tools:** Snowflake, Apache Airflow  
+- **Kubernetes & Containers:** Kubernetes (EKS, GKE), Docker, Podman, Kustomize, Karpenter  
+- **Monitoring & Observability:** New Relic, Prometheus, Grafana, Alertmanager, Loki, Uptime Kuma, Blackbox Exporter  
+- **Incident Management:** PagerDuty, ServiceNow  
+- **Scripting:** Python, Shell  
+- **Operating Systems:** Linux, Windows  
 
 ---
 
 ## 📜 Certification
 
 **AWS Certified Solution Architect Associate**  
-Amazon Web Services
+Amazon Web Services  
 
 ---
 
 ## 🚀 Projects
 
-### CI/CD Automation for EKS Deployment using GitLab CI
-
+### **CI/CD Automation for EKS Deployment using GitLab CI**  
 Designed and implemented a streamlined CI/CD pipeline for Amazon EKS, utilizing GitLab CI/CD and Kubernetes. The solution automates code builds, pushes Docker images to Amazon ECR, and seamlessly deploys applications on EKS.
 
 - **Key Achievements:**
@@ -100,31 +78,23 @@ Designed and implemented a streamlined CI/CD pipeline for Amazon EKS, utilizing 
   - GitLab Agent in Kubernetes: Implemented a secure GitLab agent as a pod in a custom namespace within the EKS cluster.
   - Namespace Isolation: Ensured secure and resource-efficient CI/CD processes by utilizing Kubernetes namespaces.
 
-- **Technologies Used:**
-  - GitLab CI/CD, Docker Hub, Amazon EKS, Docker, Podman
+- **Technologies Used:** GitLab CI/CD, Docker Hub, Amazon EKS, Docker, Podman
 
-### Webpage Deployment on Linux VMs (Terraform)
+### **Webpage Deployment on Linux VMs (Terraform)**  
+Successfully deployed a web application on two Linux virtual machines within a private subnet of an AWS VPC using Terraform. Configured an Application Load Balancer (ALB) for efficient load balancing.
 
-Successfully deployed a web application on two Linux virtual machines within a private subnet of an AWS VPC using Terraform. Configured an Application Load Balancer (ALB) for efficient load balancing. Ensured a secure and well-architected environment for web hosting in the AWS cloud.
+- **Technologies Used:** Amazon Web Services, Amazon EC2 Instance, Terraform
 
-- **Technologies Used:**
-  - Amazon Web Services, Amazon EC2 Instance, Terraform
+### **EKS Cluster Deployment using Terraform**  
+Worked on an AWS EKS deployment using Terraform and HashiCorp modules. Emphasized code simplicity, modularity, and documentation.
 
-### EKS Cluster Deployment using Terraform
+- **Technologies Used:** Amazon Web Services, Amazon EKS, Terraform
 
-Worked on an AWS EKS deployment using Terraform and HashiCorp modules. Emphasized code simplicity, modularity, and documentation. Parameterized for reusability, implemented error handling, and followed best practices.
+### **Automated Configuration Management (Ansible)**  
+Designed and implemented Ansible playbooks to automate comprehensive configuration management across three Linux servers, reducing errors and deployment time.
 
-- **Technologies Used:**
-  - Amazon Web Services, Amazon EKS, Terraform
+- **Technologies Used:** Ansible, Amazon EC2 Instance
 
-### Automated Configuration Management (Ansible)
-
-Designed and implemented Ansible playbooks to automate comprehensive configuration management across three Linux servers. Ensured consistent server configurations by orchestrating software upgrades, installations, and system optimizations. Reduced manual errors and deployment time, enhancing overall system reliability and efficiency.
-
-- **Technologies Used:**
-  - Ansible, Amazon EC2 Instance
-
----
 
 ## 🏆 Awards
 
