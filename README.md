@@ -35,6 +35,16 @@ Experienced and goal-oriented Site Reliability Engineer (SRE) with a proven reco
 - **CI/CD Excellence:** Designed and executed CI/CD pipelines using GitLab for seamless and reliable software delivery.
 - **Infrastructure as Code (IaC):** Used Terraform to automate the provisioning and management of cloud infrastructure, ensuring consistent deployments.
 - **Kubernetes & Container Management:** Managed Kubernetes clusters and container repositories to optimize application deployment.
+- **Testing Automation:** Implemented automated testing pipelines for continuous integration and regression testing in development and staging environments.
+
+### **Systems Engineer**  
+**ATOS GITSS** | Pune, India  
+**October 2021 – February 2023**
+
+- **AWS Services Administration:** Orchestrated and administered critical AWS services such as EC2, S3, ELB, ASG, EBS, IAM, Route 53, and CloudWatch, ensuring smooth cloud infrastructure operations.
+- **Security and IAM:** Established and maintained IAM protocols, reinforcing robust security practices within the AWS environment.
+- **Load Balancers and Auto-Scaling:** Designed and implemented load balancers and auto-scaling mechanisms for reliable and fault-tolerant systems.
+- **Windows Server Management:** Managed Windows Server patching and incident monitoring using ServiceNow, ensuring security and system health.
 
 ---
 
